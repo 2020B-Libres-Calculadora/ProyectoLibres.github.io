@@ -7,6 +7,8 @@ El objetivo de este proyecto  es
 ##### Fundador del Proyecto 
 
 **Christian J. Amaguaña**
+
+
 **Francis Soria**
 
 #### Licencia
