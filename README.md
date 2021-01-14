@@ -2,10 +2,7 @@
 
 #### Objetivo
 
-El objetivo de este proyecto  es **mejorar el rendimiento del empaquetado de las flores** en las agrícolas del país, 
-al darnos cuenta que la exportación de flores es un sector muy importante de producción y para ello esta aplicación permitira maximizar 
-la rapidez del empaquetado al seleccionar las flores acorde a su tipo, para que de esta manera sea mucho mas fácil su organización tanto
-en las grandes como pequeñas empresas.
+El objetivo de este proyecto  es 
 
 ##### Fundador del Proyecto 
 
@@ -17,3 +14,31 @@ en las grandes como pequeñas empresas.
 **GNU General Public License**
 
 #### Los Labels a utilizar dentro del proyecto son:
+
+* Bug
+* Ayuda 
+* Por realizar
+* En proceso
+* Finalizado
+* Consultar
+* Documentación
+* Correción
+
+### Descripción del Proyecto
+
+Este proyecto trata 
+
+##### Existirán distintos roles en el proyecto
+
+- Documentanción
+- Desarrollador
+- Tester
+- Issues
+- Diseñadores
+
+#### Gestión del Proyecto
+
+
+
+**Si desea existe el canal de discord para la comunicación**
+ [Discord de PoliCalcu](https://discord.gg/H4pEkWC8)
