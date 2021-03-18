@@ -22,8 +22,8 @@ Este proyecto puede ser utilizado en varias plataformas incluidas GNU/Linux, Win
 ### Existirán distintos roles en el proyecto
 
 - Documentanción
-- Desarrollador
-- Tester
+- Programador
+- Analista
 - Issues
 - Diseñadores
 
