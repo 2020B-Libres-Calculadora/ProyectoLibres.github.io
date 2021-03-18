@@ -83,6 +83,6 @@ Se realizará un versionamiento sencillo al referirse a un proyecto sencillo que
 **Discord de PoliCalcu:** Para unirte al discord escríbenos a estos correos y te mandaremos en enlace de invitación actualizado: francis.soria@epn.edu.ec o christian.amaguana@epn.edu.ec
 
 
-#### Lista de correos
+### Lista de correos
 
 [Al final de esta página](https://2020b-libres-calculadora.github.io/ProyectoLibres.github.io/)
