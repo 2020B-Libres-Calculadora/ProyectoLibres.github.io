@@ -66,7 +66,7 @@ La estrategia de ramas que se utilizará al deberse de un proyecto que se sabe l
 3. Los Features salen de Master.
 4. Master sigue siendo nuestra main branch y el lugar donde se refleja producción.
 5. Los Releases también salen de Master y se pueden mantener en el tiempo.
-![image](https://user-images.githubusercontent.com/59580267/111693251-64f2aa80-87fe-11eb-9e0d-5e9f5b8afac9.png)
+![image](https://user-images.githubusercontent.com/59580267/111693460-a7b48280-87fe-11eb-972d-16c021da684e.png)
 
 
 ### Estrategia de versionamiento
