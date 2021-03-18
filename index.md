@@ -114,6 +114,7 @@ Para la gestión de toma de decisiones sobre el proyecto se debe seguir los sigu
     <ul><li><input type="radio" value="Programador" name="MMERGE3" id="mce-MMERGE3-0"><label for="mce-MMERGE3-0">Programador</label></li>
 <li><input type="radio" value="Documentador" name="MMERGE3" id="mce-MMERGE3-1"><label for="mce-MMERGE3-1">Documentador</label></li>
 <li><input type="radio" value="Analista" name="MMERGE3" id="mce-MMERGE3-2"><label for="mce-MMERGE3-2">Analista</label></li>
+<li><input type="radio" value="Diseñador" name="MMERGE3" id="mce-MMERGE3-2"><label for="mce-MMERGE3-2">Analista</label></li>
 </ul>
 </div>
 	<div id="mce-responses" class="clear">
