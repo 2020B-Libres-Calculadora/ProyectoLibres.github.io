@@ -22,8 +22,8 @@ Este proyecto puede ser utilizado en varias plataformas incluidas GNU/Linux, Win
 ### Existirán distintos roles en el proyecto
 
 - Documentanción
-- Desarrollador
-- Tester
+- Programador
+- Analista
 - Issues
 - Diseñadores
 
@@ -46,26 +46,32 @@ Por otro lado, esto no quiere decir que la voz de la comunidad permanecerá apag
 
 ### Obtención de recursos
 
-
-sd
+Para este proyecto se tomarán en cuenta dos maneras de obtener recursos. Al no ser un proyecto tan grande ni complejo simplemente se aceptarán donaciones y también se aceptarán anuncios de algunas marcas para así obtener ingresos.
+Las donaciones son un mecanismo muy simple que no necesita del mayor de los esfuerzos administrar. Además, existen varias páginas web que ofrecen servicios para gestionar las donaciones de un proyecto por lo que resulta fácil ocuparlas en este proyecto.
 
 ### Gestión de recursos
 
-
-Para la gestión de recursos del proyecto se debe seguir los siguientes pasos:
-
-1. 
+Se repartirá de forma equitativa, pero dentro de cada grupo que ya se explicará a continuación cómo se dividirá a la comunidad, los recursos que se reunan cada mes. Esto se hará por dos principios: 
+1. Por el rol que tenga cada uno de los integrantes de la comunidad (si se tiene dos roles, recibirá doble recompensa).
+2. Por el número de contribuciones que se tenga. Habrán tres grupos dentro de esta división: Colaboración Alta, Media y Baja.
 
 
 ### Estrategia de ramas
 
-Para la gestión de toma de decisiones sobre el proyecto se debe seguir los siguientes pasos:
+La estrategia de ramas que se utilizará al deberse de un proyecto que se sabe lo que se hará, será **Trunk-based Development** por las siguientes razones:
+1. Trunk se para sobre un concepto fundamental: eliminar la fricción de los branches. Demasiadas ramas provocan confusión, y si bien a primera vista parece ordenado, a largo plazo termina siendo un dolor de cabeza.
+2. En este caso no existe el branch Develop como hay en la mayoría. 
+3. Los Features salen de Master.
+4. Master sigue siendo nuestra main branch y el lugar donde se refleja producción.
+5. Los Releases también salen de Master y se pueden mantener en el tiempo.
+![image](https://user-images.githubusercontent.com/59580267/111693460-a7b48280-87fe-11eb-972d-16c021da684e.png)
 
 
 ### Estrategia de versionamiento
 
+Se realizará un versionamiento sencillo al referirse a un proyecto sencillo que no consta de tantos módulos. Se comenzará desde la versión 0.9 y se irán agrupando ciertos problemas y cambios requeridos para así implementar versiones posteriores. En la siguiente imagen se puede observar un ejemplo del versionamiento que se trendrá:
 
-Para la gestión de toma de decisiones sobre el proyecto se debe seguir los siguientes pasos:
+![image](https://user-images.githubusercontent.com/59580267/111693643-dc283e80-87fe-11eb-9ec9-4e3154339f92.png)
 
 ### Canales de Comunicación
 
@@ -73,7 +79,6 @@ Para la gestión de toma de decisiones sobre el proyecto se debe seguir los sigu
 
 
 **Discord de PoliCalcu:** Para unirte al discord escríbenos a estos correos y te mandaremos en enlace de invitación actualizado: francis.soria@epn.edu.ec o christian.amaguana@epn.edu.ec
-
 
 #### Lista de correos
 
