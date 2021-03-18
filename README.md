@@ -1,17 +1,17 @@
 # Bienvenidos a PoliCalcu
 
-#### Objetivo
+### Objetivo
 
 El objetivo de este proyecto  es brindar a la comunidad una calculadora con una implementación amigable con el usuario para que sea manejable por cualquier usuario.
 
 
-##### Fundadores del Proyecto 
+### Fundadores del Proyecto 
 
 **Christian J. Amaguaña**
 
 **Francis Soria**
 
-#### Licencia
+### Licencia
 
 **GNU General Public License**
 
@@ -19,7 +19,7 @@ El objetivo de este proyecto  es brindar a la comunidad una calculadora con una 
 
 Este proyecto puede ser utilizado en varias plataformas incluidas GNU/Linux, Windows, Mac OS, iOS y Android. Nació como una iniciativa de crear una calculadora que pudiera ir creciendo de acuerdo a las necesidades de la comunidad. Permite registrarse y loggearse en cuentas específicas de cada usuario y así se logra tener su propio registro de las operaciones realizadas por cada usuario. 
 
-##### Existirán distintos roles en el proyecto
+### Existirán distintos roles en el proyecto
 
 - Documentanción
 - Desarrollador
@@ -27,7 +27,7 @@ Este proyecto puede ser utilizado en varias plataformas incluidas GNU/Linux, Win
 - Issues
 - Diseñadores
 
-#### Gestión del Proyecto
+### Gestión del Proyecto
 
 
 Para la gestión de toma de decisiones sobre el proyecto se debe seguir los siguientes pasos:
@@ -37,19 +37,19 @@ Para la gestión de toma de decisiones sobre el proyecto se debe seguir los sigu
 3. Los Directivos responderán a los analistas con las ideas o issues que han sido aprobadas y estos clasificarán estas ideas por módulo de funcionalidad para posteriormente mandarlo al equipo encargado de ese módulo.
 4. El equipo desarrollará dla resolución y reportará la finalización a los Directivos.
 
-#### Toma de decisiones
+### Toma de decisiones
 
 Francis Soria y Christian J. Amaguaña, como fundadores del software libre PoliCalcu serán los encargados de manejar el proyecto a lo largo de su desarrollo y mantenimiento; esto se realizará hasta que uno o ambos de ellos requieran de otra persona que les ayude a tomar la tutela por algún agente externo o motivo dado. Esta persona será elegida por los creadores antes mencionados.
 La autoridad que poseen es la de aprobar o rechazar ideas de la comunidad, así como manejar a los miembros de esta y controlar que se cumplan con las normativas establecidas en la comunidad.
 Por otro lado, esto no quiere decir que la voz de la comunidad permanecerá apagada, sino que simplemente será regulada por los creadores. Toda la comunidad podrá pronunciarse por medio de los canales de comunicación (discord, telegram), independientemente de los roles que posean. Especialmente, por medio de los foros se realizarán los comentarios de la comunidad, para que así los creadores puedan analizar la opinión y resolver lo mejor para el proyecto.
 
 
-#### Obtención de recursos
+### Obtención de recursos
 
 
 sd
 
-#### Gestión de recursos
+### Gestión de recursos
 
 
 Para la gestión de recursos del proyecto se debe seguir los siguientes pasos:
@@ -57,17 +57,17 @@ Para la gestión de recursos del proyecto se debe seguir los siguientes pasos:
 1. 
 
 
-#### Estrategia de ramas
+### Estrategia de ramas
 
 Para la gestión de toma de decisiones sobre el proyecto se debe seguir los siguientes pasos:
 
 
-#### Estrategia de versionamiento
+### Estrategia de versionamiento
 
 
 Para la gestión de toma de decisiones sobre el proyecto se debe seguir los siguientes pasos:
 
-#### Canales de Comunicación
+### Canales de Comunicación
 
 **[Telegram de PoliCalcu](https://t.me/joinchat/of60tKns3WJlNzMx)**
 
