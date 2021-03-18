@@ -13,7 +13,7 @@ El objetivo de este proyecto  es brindar a la comunidad una calculadora con una 
 
 ### Licencia
 
-**[GNU General Public License](https://github.com/ExamenLibres/LibresFrancis.github.io/blob/main/LICENSE)**
+**[GNU General Public License](https://github.com/2020B-Libres-Calculadora/ProyectoLibres.github.io/blob/main/LICENSE)**
 
 ### Descripción del Proyecto
 
