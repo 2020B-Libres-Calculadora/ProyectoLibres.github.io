@@ -71,7 +71,9 @@ La estrategia de ramas que se utilizará al deberse de un proyecto que se sabe l
 
 ### Estrategia de versionamiento
 
-Se realizará un versionamiento sencillo al referirse a un proyecto sencillo que no consta de tantos módulos. Se comenzará desde la versión 0.9 y se irán agrupando ciertos problemas y cambios requeridos para así implementar versiones posteriores.
+Se realizará un versionamiento sencillo al referirse a un proyecto sencillo que no consta de tantos módulos. Se comenzará desde la versión 0.9 y se irán agrupando ciertos problemas y cambios requeridos para así implementar versiones posteriores. En la siguiente imagen se puede observar un ejemplo del versionamiento que se trendrá:
+
+![image](https://user-images.githubusercontent.com/59580267/111693643-dc283e80-87fe-11eb-9ec9-4e3154339f92.png)
 
 ### Canales de Comunicación
 
