@@ -80,7 +80,7 @@ Se realizará un versionamiento sencillo al referirse a un proyecto sencillo que
 
 **Discord de PoliCalcu:** Para unirte al discord escríbenos a estos correos y te mandaremos en enlace de invitación actualizado: francis.soria@epn.edu.ec o christian.amaguana@epn.edu.ec
 
-#### Lista de correos
+### Lista de correos
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
