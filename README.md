@@ -71,6 +71,8 @@ Para la gestión de toma de decisiones sobre el proyecto se debe seguir los sigu
 #### Canales de Comunicación
 
 **[Telegram de PoliCalcu](https://t.me/joinchat/of60tKns3WJlNzMx)**
+
+
 **Discord de PoliCalcu:** Para unirte al discord escríbenos a estos correos y te mandaremos en enlace de invitación actualizado: francis.soria@epn.edu.ec o christian.amaguana@epn.edu.ec
 
 
