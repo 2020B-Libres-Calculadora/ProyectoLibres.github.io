@@ -16,17 +16,6 @@ El objetivo de este proyecto  es brindar a la comunidad una calculadora con una 
 
 **GNU General Public License**
 
-#### Los Labels a utilizar dentro del proyecto son:
-
-* Bug
-* Ayuda 
-* Por realizar
-* En proceso
-* Finalizado
-* Consultar
-* Documentación
-* Correción
-
 ### Descripción del Proyecto
 
 Este proyecto puede ser utilizado en varias plataformas incluidas GNU/Linux, Windows, Mac OS, iOS y Android. Nació como una iniciativa de crear una calculadora que pudiera ir creciendo de acuerdo a las necesidades de la comunidad. Permite registrarse y loggearse en cuentas específicas de cada usuario y así se logra tener su propio registro de las operaciones realizadas por cada usuario. 
