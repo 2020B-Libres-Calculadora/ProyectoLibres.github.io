@@ -5,10 +5,9 @@
 El objetivo de este proyecto  es brindar a la comunidad una calculadora con una implementación amigable con el usuario para que sea manejable por cualquier usuario.
 
 
-##### Fundador del Proyecto 
+##### Fundadores del Proyecto 
 
 **Christian J. Amaguaña**
-
 
 **Francis Soria**
 
